@@ -68,15 +68,20 @@ Execution: A complete, 1-page corporate policy mapping approved digital environm
 Document Specifications
 
 Document ID: POL-SEC 2026-007 
-Compliance Overlap: GDPR Article 32 (Security of Processing)
-Key Clauses Structured Within Policy:
 
+Compliance Overlap: GDPR Article 32 (Security of Processing)
+
+Key Clauses Structured Within Policy:
 Purpose: Outlines the operational risks AI poses to data privacy and regulatory alignment.
 Approved Whitelist: Restricts company data processing exclusively to enterprise-authenticated instances of Microsoft Copilot and Claude on managed browsers.
+
 Prohibited Actions: Enforces zero-tolerance boundaries against pasting proprietary source code, patient PII, or internal health metadata into unauthorized environments.
 *The full markdown text for this policy can be reviewed
+
 🧠 Key GRC Competencies Demonstrated
 
 Regulatory Knowledge: Deep alignment with global security frameworks (GDPR data protection mandates).
+
 Risk Management Foundations: Practical implementation of quantitative matrix methodologies following ISO 31000 principles.
+
 Technical Writing: Ability to translate complex infrastructure landscapes and high-level technical vectors into simple corporate policy language.
