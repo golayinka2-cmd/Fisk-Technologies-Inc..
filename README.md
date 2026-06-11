@@ -1,4 +1,4 @@
-GRC Portfolio: Governance, Risk, and Compliance Baseline Project
+**GRC Portfolio: Governance, Risk, and Compliance Baseline Project**
 
 Welcome to my Governance, Risk, and Compliance (GRC) portfolio project. This repository demonstrates foundational, practical skills required of a GRC Analyst. It covers asset lifecycle management, quantitative risk assessment modeling using international standards, and corporate policy architecture.
 
@@ -35,22 +35,30 @@ Risk Register Entries
 🚨 Scenario A: Data Leakage via Public AI Tiers
 
 The Threat: Employees using free versions of ChatGPT to write corporate emails and summarize internal documentation. Free-tier tools retain user text inputs for public model training.
+
 The Consequence: Proprietary source code and protected Identity information (PII) leak publicly, triggering catastrophic regulatory fines and brand degradation.
 Risk Score: Likelihood (4) 
 ×
  Impact (5) = 20 (Critical Risk)
+
 The Treatment Plan: Enforce domain-level blocks on public AI tools via corporate firewalls. Provision enterprise-licensed AI accounts covered by explicit Data Processing Agreements (DPAs).
 Treatment Owner: IT Security Manager/GRC Analyst
+
 🚨 Scenario B: Algorithmic Hallucination
 
 The Threat: Employees utilizing unauthorized generative AI models to summarize complex histories and draft company letters without strict verification gates.
+
 The Consequence: The AI model hallucinates incorrect information, leading to faulty advice, severe harm, and multi-million dollar lawsuits.
 Risk Score: Likelihood (3) 
 ×
  Impact (3) = 9 (Low Risk)
+
 The Treatment Plan: Deploy an FDA-compliant, clinically validated AI summarization tool that mandates source-record citations. Enforce documented "human-in-the-loop" verification protocols.
+
 Treatment Owner: IT Security Manager/GRC Analyst
+
 Skills Gained: Risk Taxonomy, Risk Register Maintenance, Risk Mitigation and Compliance Alignment.
+
 
 📜 Task 3: AI Acceptable Use Policy (AUP)
 
